@@ -1,0 +1,11 @@
+C:\Users\EIC DAUPHINE E&R\C#\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.exe
+C:\Users\EIC DAUPHINE E&R\C#\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.deps.json
+C:\Users\EIC DAUPHINE E&R\C#\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.runtimeconfig.json
+C:\Users\EIC DAUPHINE E&R\C#\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.runtimeconfig.dev.json
+C:\Users\EIC DAUPHINE E&R\C#\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.dll
+C:\Users\EIC DAUPHINE E&R\C#\ClassesAndObjects\bin\Debug\netcoreapp3.1\ClassesAndObjects.pdb
+C:\Users\EIC DAUPHINE E&R\C#\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.csprojAssemblyReference.cache
+C:\Users\EIC DAUPHINE E&R\C#\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\EIC DAUPHINE E&R\C#\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.AssemblyInfo.cs
+C:\Users\EIC DAUPHINE E&R\C#\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.dll
+C:\Users\EIC DAUPHINE E&R\C#\ClassesAndObjects\obj\Debug\netcoreapp3.1\ClassesAndObjects.pdb
